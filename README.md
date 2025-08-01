@@ -1,1 +1,2 @@
 # Student-Management-System
+The Student Management System is a simple console-based Java application designed to help manage student records efficiently. It provides essential CRUD (Create, Read, Update, Delete) operations, allowing users to maintain a small database of student information such as roll number, name, course, and email. This project is particularly suitable for beginners looking to understand basic object-oriented programming concepts, array lists, and user interaction through the console.
